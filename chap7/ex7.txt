@@ -1,0 +1,2 @@
+first hash uses symbol :x as a key, second hash uses x, which
+is a variable pointing to value "hi there"

@@ -1,0 +1,1 @@
+an array is ordered by index. a hash is a data structure wherein values are mapped to specific keys. may be unordered otherwise

@@ -1,0 +1,3 @@
+unable to access variable named 'shoes' bc this variable
+was defined out of scope or has not been defined at all
+within the scope of 'main'
